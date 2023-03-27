@@ -1,0 +1,48 @@
+header{
+    height: 100px;
+    background-color: coral;
+    display: flex;
+    justify-content: end;
+    margin-bottom: 100px;
+    width: 100%;
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.images {
+display: flex;
+justify-content: center;
+text-align: center;
+font-size: 1.2rem;
+}
+
+img {
+    padding: 20px;
+    height: 15rem;
+}
+
+footer{
+    height: 150px;
+    background-color: deeppink;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-top: 70px;
+    width: 100%;
+    }
+
